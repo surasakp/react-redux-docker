@@ -1,0 +1,13 @@
+version: '3'
+
+services: 
+  react:
+    build:
+      context: ../
+      dockerfile: docker/Dockerfile
+    command: npm run dev
+    volumes: 
+      - ../react:/app-react
+      - /app-react/node_modules
+    ports: 
+      - '3000:3000'
