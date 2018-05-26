@@ -1,9 +1,8 @@
 # Project React Redux
 
 ## Install docker
-- for [Docker for Window](https://docs.docker.com/docker-for-windows/install/) go to this page and follow first step
-
-- for [Docker for Mac](https://docs.docker.com/docker-for-mac/install/) go to this page and follow first step
+- [Docker for Window](https://docs.docker.com/docker-for-windows/install/) go to this page and follow first step
+- [Docker for Mac](https://docs.docker.com/docker-for-mac/install/) go to this page and follow first step
 
 ## Credit
 use [GA-MO's boilerplate](https://github.com/GA-MO/react-redux-gamo-boilerplate) and Thank you so much
